@@ -73,7 +73,7 @@ bank-system/
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/maddakam-mallikarjuna/bank-system.git
    cd bank-system
    ```
 
